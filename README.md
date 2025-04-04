@@ -6,5 +6,7 @@ obstacles using an infrared (IR) sensor, improving its ability to navigate auton
 environments. The design of the robot aims to offer a cost-effective and efficient solution for fire detection and
 control in various settings, including industrial, residential, and commercial spaces.
 
-![image](https://github.com/user-attachments/assets/65bc5a1c-2f7e-4446-afa5-223213af0468)
+![tem](https://github.com/user-attachments/assets/93630951-33dc-44a5-bfd9-d30289da161f)
+![Uploading rebot result.jpg…]()
+
 

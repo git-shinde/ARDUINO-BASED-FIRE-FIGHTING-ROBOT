@@ -5,3 +5,6 @@ sent to the user's mobile device, allowing for remote monitoring and control. Ad
 obstacles using an infrared (IR) sensor, improving its ability to navigate autonomously in dangerous
 environments. The design of the robot aims to offer a cost-effective and efficient solution for fire detection and
 control in various settings, including industrial, residential, and commercial spaces.
+
+![image](https://github.com/user-attachments/assets/65bc5a1c-2f7e-4446-afa5-223213af0468)
+
